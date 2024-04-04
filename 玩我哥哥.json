@@ -10,7 +10,7 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://wogg.link/index.php/vodshow/{cateId}-{area}--{class}-{lang}-{letter}------{year}.html",
+    "分类链接": "http://kxys.site:3328/vodtype/{cateId}",
     "分类名称": "玩我电影&玩我剧集&动漫&综艺",
     "分类名称替换词": "1&2&3&4",
     "筛选数据": "ext",
