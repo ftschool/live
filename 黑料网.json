@@ -3,5 +3,7 @@
      "图片":"data-v-a51695bc>&&</div>",
      "分类":"今日黑料$6#今日热搜$7#热门大瓜$8#黑料历史$10#每日top10$11#网红乱象$1#反差女友$4#原创社区$13#校园春宫$2#独家爆料$9#官员干部$17#性爱课堂$12#中外奇闻$3",
      "分类url":"https://yt6d.yilecdi.com/category/{cateId}/{catePg}.html",
-     "播放数组":"class=dplayer-danmaku"
+     "播放数组":"<div class="dplayer-danmaku">
+        <div class="dplayer-danmaku-item dplayer-danmaku-item--demo" style="opacity: 0.7;"></div>
+    </div>"
 }
