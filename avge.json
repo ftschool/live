@@ -1,11 +1,13 @@
 {
                 "页面代理": "127.0.0.1:10172",
-                "主页url": "https://avgle.to",
-                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "class=\"title\"><a*>&&</a>",
-                "链接": "<a href=\"&&\"",
+                "主页url": "https://rjav.tv/zh/",
                 "直接播放": "1",
-                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
-                "分类": "日本有码$Censored#日本无码$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有码破坏$Mosaic_Removed#MGS动画$MGS#国产成人$Asian_Amateur#欧美成人$Western_Porn#写真特级$Adult_IDOL#动画$Anime"
+                "数组": "class=\"mb15\"&&</li>",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介":"title>&&</title",
+                "主演":"name=\"keywords\" content=\"&&\"",
+                "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
+                "分类": "FC2-PPV$FC2-PPV#日本无码$JAV_Uncensored#马赛克破坏$Mosaic_Removed#国产$Asian_Amateur#日本有码$JAV_Censored#MGS动画$MGS#中文字幕$JAV+CHN.SUBs#动画$Anime#欧美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#写真$Adult_IDOL"
 }
