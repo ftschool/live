@@ -36,7 +36,7 @@
     "搜索片单标题": "h3&&a&&Text",
     "搜索片单链接": "h3&&a&&href",
     "搜索片单副标题": ".video-info-header&&Text",
-    "搜索片单链接加前缀": "https://www.ziziys.com",
+    "搜索片单链接加前缀": "https://www.ziziys.net",
     "搜索片单链接加后缀": "",
     "链接是否直接播放": "否",
     "直接播放链接加前缀": "https://live.52sf.ga/huya/",
